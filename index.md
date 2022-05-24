@@ -4,6 +4,6 @@
 
 [loki文档](http://loki.linqianye.com)
 
-[pexpect文档](pexpect.linqianye.com)
+[pexpect文档](http://pexpect.linqianye.com)
 
-[snmptt文档](snmptt.linqianye.com)
+[snmptt文档](http://snmptt.linqianye.com)
